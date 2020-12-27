@@ -21,7 +21,7 @@ Make sure all the tests are passing. Please write some tests for:
   - A product that doesn't exist;
   - An invalid input (negative numbers, null, empty object);
 
-## Architecute
+## Architecture
 
 The architecture of the project is quite simple:
 
