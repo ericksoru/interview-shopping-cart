@@ -6,7 +6,7 @@ namespace Rezult.Interviews.ShoppingCart.Core.Exceptions
     {
         public string Entity { get; }
 
-        public MissingEntityException(string entity)
+        public MissingEntityException(String entity)
             : base($"Missing entity '{entity}'.")
         {
             Entity = entity;
